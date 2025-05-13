@@ -43,7 +43,7 @@ Ensure you have **Python 3** installed, along with the necessary libraries:
 1. **Clone or Download the Project**  
    Run the following command to clone the repository:
    ```bash
-   git clone https://github.com/jcmpb2/Braniac-Quiz-Game.git
+   git clone https://github.com/jcmpb2/Braniac.git
 2. **Navigate to the Project Directory**
    ```bash
    cd Braniac 
