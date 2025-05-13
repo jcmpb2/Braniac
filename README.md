@@ -49,4 +49,4 @@ Ensure you have **Python 3** installed, along with the necessary libraries:
    cd Braniac 
 3. **Run the Application**  
    ```bash
-   python client.py
+   python Braniac.py
