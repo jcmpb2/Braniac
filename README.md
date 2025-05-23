@@ -32,8 +32,8 @@
 Ensure you have **Python 3** installed, along with the necessary libraries:
 
 To install all required dependencies automatically, run:
-# ```bash
-  pip install -r requirements.txt
+```bash ```bash
+pip install -r requirements.txt
 
 #### Required Python Modules:
 - **Tkinter** _(built into Python)_
