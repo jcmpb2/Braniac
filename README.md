@@ -39,7 +39,7 @@ Ensure you have **Python 3** installed, along with the necessary libraries:
 - **os** _(for file handling, leaderboard management)_
 
 To install all required dependencies automatically, run:
-```bash
+```bash```
 pip install -r requirements.txt
 
 #### Installation
