@@ -32,7 +32,7 @@
 Ensure you have **Python 3** installed, along with the necessary libraries:
 
 #### Required Python Modules:
-- **Tkinter** _(built into Python)_
+- **Tkinter** _(GUI for the quiz interface)_
 - **requests** _(for fetching trivia data via API)_
 - **random** _(for shuffling questions)_
 - **html** _(for processing HTML-encoded text)_
