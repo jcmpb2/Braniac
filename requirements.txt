@@ -1,0 +1,5 @@
+tkinter           # GUI for the quiz interface (built into Python)
+requests          # For fetching trivia data via API
+random            # For shuffling questions
+html              # For processing HTML-encoded text
+os                # For file handling, leaderboard management
