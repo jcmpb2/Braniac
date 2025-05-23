@@ -31,16 +31,16 @@
 
 Ensure you have **Python 3** installed, along with the necessary libraries:
 
+To install all required dependencies automatically, run:
+# ```bash
+  pip install -r requirements.txt
+
 #### Required Python Modules:
 - **Tkinter** _(built into Python)_
 - **requests** _(for fetching trivia data via API)_
 - **random** _(for shuffling questions)_
 - **html** _(for processing HTML-encoded text)_
 - **os** _(for file handling, leaderboard management)_
-- 
-To install all required dependencies automatically, run:
-  ```bash
-  pip install -r requirements.txt
 
 #### Installation
 
