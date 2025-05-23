@@ -38,10 +38,8 @@ Ensure you have **Python 3** installed, along with the necessary libraries:
 - **html** _(for processing HTML-encoded text)_
 - **os** _(for file handling, leaderboard management)_
 
-## Installing Dependencies
-
 To install all required dependencies automatically, run:
-\```bash
+```bash
 pip install -r requirements.txt
 
 #### Installation
